@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nidiarocio, I work as UX Designer at Mediaocean.
+- 👋 Hi, I’m @nidiarocio, I work as UX Designer.
 - 👀 I’m interested in Product Design, UX Research, UI Design, Atomic Design and Design Systems for small and large organizations.
 - 🌱 I’m currently learning all about Design Systems and Minimalism.
 - 💞️ I’m looking to collaborate on AAC projects for NGOs.
